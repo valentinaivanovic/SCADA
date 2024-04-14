@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\amd\\onedrive\\dokumenti\\github\\scada\\scada\\dcom-radna-verzija\\dcom\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\pointviewmodels\\digitaloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\digitaloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\pointviewmodels\\digitalinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\digitalinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\pointviewmodels\\digitalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\digitalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\pointviewmodels\\basepointitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\basepointitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\pointviewmodels\\analogoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\analogoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\pointviewmodels\\analogbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\analogbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\viewmodel\\pointviewmodels\\analaoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\analaoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\converters\\pointtypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\pointtypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\connection\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\connection\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\connection\\functionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\functionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\iconfigitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iconfigitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\eguconv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\eguconv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\functionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\modbusfunctions\\readdiscreteinputsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readdiscreteinputsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\functionparameters\\modbuswritecommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbuswritecommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\modbus\\functionparameters\\modbuscommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbuscommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\idigitalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\idigitalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\iautomationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iautomationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\pointidentifierhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\pointidentifierhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\istateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\istateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\iprocessingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iprocessingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\ipoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ipoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\common\\ifunctionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ifunctionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAAAOAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:07:46.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigitalOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:07:41.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DigitalInput.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:07:35.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DigitalBase.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:07:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasePointItem.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAkwPYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:04:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnalogOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:04:45.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RtuCfg.txt",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\RtuCfg.txt",
+              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\RtuCfg.txt",
+              "RelativeToolTip": "dCom\\RtuCfg.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-11T09:42:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:09:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnalogBase.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\AnalogBase.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\AnalogBase.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\AnalogBase.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\AnalogBase.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:04:38.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnalaogInput.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:04:29.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Utils\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "dCom\\Utils\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Utils\\RelayCommand.cs",
+              "RelativeToolTip": "dCom\\Utils\\RelayCommand.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:03:26.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigurationException.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Exceptions\\ConfigurationException.cs",
+              "RelativeDocumentMoniker": "dCom\\Exceptions\\ConfigurationException.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Exceptions\\ConfigurationException.cs",
+              "RelativeToolTip": "dCom\\Exceptions\\ConfigurationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:02:53.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:02:48.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PointTypeToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:02:28.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConnectionStateToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:02:24.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlarmToBackgroundColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:01:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:00:27.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfigItemEqualityComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:00:18.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\Connection\\IConnection.cs",
+              "RelativeDocumentMoniker": "Modbus\\Connection\\IConnection.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\Connection\\IConnection.cs",
+              "RelativeToolTip": "Modbus\\Connection\\IConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:32:16.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TCPConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\Connection\\TCPConnection.cs",
+              "RelativeDocumentMoniker": "Modbus\\Connection\\TCPConnection.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\Connection\\TCPConnection.cs",
+              "RelativeToolTip": "Modbus\\Connection\\TCPConnection.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:32:45.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Acquisitor.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\Acquisitor.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\Acquisitor.cs",
+              "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAFAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:46:39.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AlarmProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\AlarmProcessor.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\AlarmProcessor.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\AlarmProcessor.cs",
+              "RelativeToolTip": "ProcessingModule\\AlarmProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:50:35.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutomationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\AutomationManager.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\AutomationManager.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\AutomationManager.cs",
+              "RelativeToolTip": "ProcessingModule\\AutomationManager.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:51:24.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProcessingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\ProcessingManager.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\ProcessingManager.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\ProcessingManager.cs",
+              "RelativeToolTip": "ProcessingModule\\ProcessingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:55:01.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8BAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:12:25.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FunctionExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\Connection\\FunctionExecutor.cs",
+              "RelativeDocumentMoniker": "Modbus\\Connection\\FunctionExecutor.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\Connection\\FunctionExecutor.cs",
+              "RelativeToolTip": "Modbus\\Connection\\FunctionExecutor.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:30:47.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IConfigItem.cs",
+              "RelativeDocumentMoniker": "Common\\IConfigItem.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IConfigItem.cs",
+              "RelativeToolTip": "Common\\IConfigItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:19:56.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IConfiguration.cs",
+              "RelativeDocumentMoniker": "Common\\IConfiguration.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IConfiguration.cs",
+              "RelativeToolTip": "Common\\IConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:20:53.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EGUConv.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\EGUConv.cs",
+              "RelativeDocumentMoniker": "Common\\EGUConv.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\EGUConv.cs",
+              "RelativeToolTip": "Common\\EGUConv.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:30:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EGUConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\EGUConverter.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\EGUConverter.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\ProcessingModule\\EGUConverter.cs",
+              "RelativeToolTip": "ProcessingModule\\EGUConverter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:28:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FunctionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionFactory.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionFactory.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionFactory.cs",
+              "RelativeToolTip": "Modbus\\FunctionFactory.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:45:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WriteSingleRegisterFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:44:41.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WriteSingleCoilFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:43:53.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReadInputRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwD0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:42:59.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReadHoldingRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:42:07.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReadDiscreteInputsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowEoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:40:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReadCoilsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA7wEEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:38:54.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ModbusFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:38:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ModbusWriteCommandParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:35:22.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ModbusCommandParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:34:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ModbusReadCommandParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:34:00.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PointIdentifierHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\PointIdentifierHelper.cs",
+              "RelativeDocumentMoniker": "Common\\PointIdentifierHelper.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\PointIdentifierHelper.cs",
+              "RelativeToolTip": "Common\\PointIdentifierHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:23:01.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IStorage.cs",
+              "RelativeDocumentMoniker": "Common\\IStorage.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IStorage.cs",
+              "RelativeToolTip": "Common\\IStorage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:22:45.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IStateUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IStateUpdater.cs",
+              "RelativeDocumentMoniker": "Common\\IStateUpdater.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IStateUpdater.cs",
+              "RelativeToolTip": "Common\\IStateUpdater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:22:20.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "Common\\Enums.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\Enums.cs",
+              "RelativeToolTip": "Common\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:18:13.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAnalogPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IAnalogPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IAnalogPoint.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IAnalogPoint.cs",
+              "RelativeToolTip": "Common\\IAnalogPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:19:18.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IAutomationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IAutomationManager.cs",
+              "RelativeDocumentMoniker": "Common\\IAutomationManager.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IAutomationManager.cs",
+              "RelativeToolTip": "Common\\IAutomationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:19:33.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDigitalPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IDigitalPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IDigitalPoint.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IDigitalPoint.cs",
+              "RelativeToolTip": "Common\\IDigitalPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:21:16.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IProcessingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IProcessingManager.cs",
+              "RelativeDocumentMoniker": "Common\\IProcessingManager.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IProcessingManager.cs",
+              "RelativeToolTip": "Common\\IProcessingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:22:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IPoint.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IPoint.cs",
+              "RelativeToolTip": "Common\\IPoint.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:22:04.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IModbusFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IModbusFunction.cs",
+              "RelativeDocumentMoniker": "Common\\IModbusFunction.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IModbusFunction.cs",
+              "RelativeToolTip": "Common\\IModbusFunction.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:21:50.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IFunctionExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IFunctionExecutor.cs",
+              "RelativeDocumentMoniker": "Common\\IFunctionExecutor.cs",
+              "ToolTip": "C:\\Users\\Amd\\OneDrive\\Dokumenti\\GitHub\\SCADA\\SCADA\\dCom-radna-verzija\\dCom\\Common\\IFunctionExecutor.cs",
+              "RelativeToolTip": "Common\\IFunctionExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:21:32.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

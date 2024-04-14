@@ -1,0 +1,9 @@
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.csproj.Up2Date
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\Amd\Downloads\dCom-radna-verzija\dCom\Modbus\obj\Debug\Modbus.pdb
